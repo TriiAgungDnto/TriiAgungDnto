@@ -2,18 +2,19 @@
 
 # Hey, I'm Tri Agung Dianto !
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+and+Web+Application+Developer;Based+in+Palembang%2C+Indonesia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+and+Web+Application+Developer;Based+in+Palembang%2C+Indonesia)](https://git.io/typing-svg)
 
 </div>
 
 ## • About Me
 
-As a Full Stack Developer with a Cum Laude degree in Informatics Engineering from Bina Darma University, I thrive on transforming complex ideas into seamless, data-driven web applications. Let's collaborate and innovate together to build solutions that make a difference!
+An Informatics Engineering graduate from **Bina Darma University** ( Cum Laude, GPA 3.63/4.00 ) and a proactive **Full Stack Developer**. I specialize in building robust management systems, automating workflows, and developing scalable frontend and backend solutions.
 
-- Working at **Bina Darma University** in **Palembang, Indonesia**
-- Currently learning **Currently diving into AI Productivity and mastering AI API Integration — exciting tools for developers!**
-- Ask me about **Full Stack Development & Web Application Optimization**
-- I graduated Cum Laude with a GPA of 3.63/4.00 while passionately exploring Software Engineering
+- **Currently working as :** Full Stack Developer at **Bina Darma University** ( Palembang, Indonesia )
+- **Currently exploring :** AI API Integration & AI Productivity Tools for Modern Development
+- **Ask me about :** Full Stack Development, Database Optimization, Backend Automation & System Architecture
+- **Education :** Bachelor of Informatics Engineering with a focus on Software Engineering
+- **How to reach me :** [triagungdianto@gmail.com](mailto:triagungdianto@gmail.com)
 
 ## • Tech Stack
 
