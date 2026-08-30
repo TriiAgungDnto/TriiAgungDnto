@@ -17,13 +17,15 @@ As a Full Stack Developer with a Cum Laude degree in Informatics Engineering fro
 
 ## ⚪ Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-333?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![React.js](https://img.shields.io/badge/React.js-333?style=for-the-badge&logo=reactdotjs&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-333?style=for-the-badge&logo=postman&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-333?style=for-the-badge&logo=figma&logoColor=white) ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-333?style=for-the-badge&logo=problemsolving&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-333?style=for-the-badge&logo=bootstrap&logoColor=white)
+<div align="center">
+
+![Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,laravel,php,mysql,react,nodejs,github,figma,postman)
+
+</div>
 
 ## ⚪ GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TriiAgungDnto&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TriiAgungDnto&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
