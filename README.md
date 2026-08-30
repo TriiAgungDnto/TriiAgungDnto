@@ -1,12 +1,12 @@
-<div align="center">
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/99c37225-e18b-491a-b371-6d58265952f5" /><div align="center">
 
-# Hey, I'm Tri Agung Dianto!
+# Hey, I'm Tri Agung Dianto !
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full%20Stack%20Developer;Currently%20diving%20into%20AI%20Product...;Based%20in%20Palembang%2C%20Indonesia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full%20Stack%20Developer%20&%20Web%20Application%20Developer;Based%20in%20Palembang%2C%20Indonesia)](https://git.io/typing-svg)
 
 </div>
 
-## ⚪ About Me
+## • About Me
 
 As a Full Stack Developer with a Cum Laude degree in Informatics Engineering from Bina Darma University, I thrive on transforming complex ideas into seamless, data-driven web applications. Let's collaborate and innovate together to build solutions that make a difference!
 
@@ -15,7 +15,7 @@ As a Full Stack Developer with a Cum Laude degree in Informatics Engineering fro
 - Ask me about **Full Stack Development & Web Application Optimization**
 - I graduated Cum Laude with a GPA of 3.63/4.00 while passionately exploring Software Engineering
 
-## ⚪ Tech Stack
+## • Tech Stack
 
 <div align="center">
 
@@ -23,7 +23,7 @@ As a Full Stack Developer with a Cum Laude degree in Informatics Engineering fro
 
 </div>
 
-## ⚪ GitHub Stats
+## • GitHub Stats
 
 <div align="center">
 
@@ -31,7 +31,7 @@ As a Full Stack Developer with a Cum Laude degree in Informatics Engineering fro
 
 </div>
 
-## ⚪ Connect with me
+## • Connect with me
 
 <div align="center">
 
