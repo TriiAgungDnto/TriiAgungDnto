@@ -1,8 +1,8 @@
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/99c37225-e18b-491a-b371-6d58265952f5" /><div align="center">
+<div align="center">
 
 # Hey, I'm Tri Agung Dianto !
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full%20Stack%20Developer%20&%20Web%20Application%20Developer;Based%20in%20Palembang%2C%20Indonesia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full%20Stack%20Developer%20and%20Web%20Application%20Developer;Based%20in%20Palembang%2C%20Indonesia)](https://git.io/typing-svg)
 
 </div>
 
