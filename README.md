@@ -18,7 +18,7 @@ An Informatics Engineering graduate from **Bina Darma University** ( Cum Laude, 
 
 ## • Tech Stack
 
-<div align="center">
+<div align="center my-20">
 
 ![Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,laravel,php,mysql,react,nodejs,github,figma,postman)
 
