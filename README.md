@@ -28,7 +28,8 @@ An Informatics Engineering graduate from **Bina Darma University** ( Cum Laude, 
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TriiAgungDnto&theme=github-dark-blue&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TriiAgungDnto)](https://github.com/TriiAgungDnto/github-readme-stats)
+
 
 </div>
 
