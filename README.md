@@ -28,7 +28,8 @@ An Informatics Engineering graduate from **Bina Darma University** ( Cum Laude, 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TriiAgungDnto&show_icons=true&theme=radical)
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=TriiAgungDnto&cardType=streak)](https://www.readmecodegen.com/custom-github-card-generator)
+[![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=TriiAgungDnto&theme=tokyonight&cardType=langs)](https://www.readmecodegen.com/custom-github-card-generator)
 
 
 </div>
