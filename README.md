@@ -28,7 +28,7 @@ An Informatics Engineering graduate from **Bina Darma University** ( Cum Laude, 
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TriiAgungDnto)](https://github.com/TriiAgungDnto/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TriiAgungDnto&show_icons=true&theme=radical)
 
 
 </div>
